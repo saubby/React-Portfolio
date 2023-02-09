@@ -21,7 +21,6 @@
     "url": "https://github.com/saubby/React-Portfolio/issues"
   },
   "homepage": "https://saubby.github.io/React-Portfolio",
-
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
@@ -32,8 +31,17 @@
     "react-dom": "^17.0.2",
     "react-scripts": "^3.4.1",
     "web-vitals": "^0.2.4"
-
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
-
-
