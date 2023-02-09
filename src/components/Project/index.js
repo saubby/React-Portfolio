@@ -9,7 +9,6 @@ function Project(props) {
     const description = currentProject.description;
     const image = currentProject.image;
     const techs = currentProject.technologies;
-    const appLink = currentProject.deployed;
     const gitLink = currentProject.github;
 
     // This function parses the information from the array and creates a list.
