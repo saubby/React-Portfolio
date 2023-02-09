@@ -22,6 +22,7 @@ function Resume() {
                     <li>responsive design</li>
                     <li>React</li>
                     <li>version control/Git</li>
+                    
                 </ol>
                 <br></br>
                 <h5>Back-End Proficiencies</h5>
@@ -29,6 +30,7 @@ function Resume() {
                     <li>APIs</li>
                     <li>NodeJS</li>
                     <li>Express</li>
+                    <li>SQL/NoSQL</li>
                     <li>Model View Controller (MVC)</li>
                     <li>Progressive Web Applications (PWA)</li>
                 </ol>
